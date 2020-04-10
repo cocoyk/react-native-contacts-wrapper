@@ -17,8 +17,8 @@ Feel free to extend the functionality so it's more useful for everyone - all PRs
 If you have rnpm installed, all you need to do is
 
 ```
-npm install react-native-contacts-wrapper --save
-rnpm link react-native-contacts-wrapper
+npm install yq-react-native-contacts-wrapper --save
+rnpm link yq-react-native-contacts-wrapper
 ```
 
 ### Manual
